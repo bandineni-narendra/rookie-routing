@@ -2,7 +2,7 @@ import React from 'react';
 
 function ErrorPage() {
   return (
-    <div>
+    <div className='h-auto w-screen flex justify-center items-center'>
      <div className='flex justify-center text-center items-center bg-cyan-300'>No Page da</div>
     </div>
   );
